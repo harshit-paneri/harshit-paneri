@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshit-paneri
-- 👀 I’m interested in Web Developmetn || Coding
+- 👀 I’m interested in Web development || Coding
 - 🌱 I’m currently learning C || C++ || Python || JavaScript || PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on linkedin, my profile is https://www.linkedin.com/in/harshitpaneri29/
