@@ -9,6 +9,8 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+[![Harshit's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshit-paneri&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-paneri)](https://github.com/harshit-paneri/editoe/) -->
 <!---
