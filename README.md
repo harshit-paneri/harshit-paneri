@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on linkedin, my profile is https://www.linkedin.com/in/harshitpaneri29/
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <img align="left" alt="harshi-paneri's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshit-paneri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-paneri)](https://github.com/harshit-paneri/editoe/) -->
