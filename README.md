@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harshit-paneri
-- 👀 I’m interested in Web development || Coding
+- 👀 I’m interested in Web development || Coding || Designing 
 - 🌱 I’m currently learning C || C++ || Python || JavaScript || PHP 
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on linkedin, my profile is https://www.linkedin.com/in/harshitpaneri29/
+- 💞️ I’m looking to collaborate on good projects 
+- 📫 Reach me on linkedin, my profile is https://www.linkedin.com/in/harshitpaneri29/ , Instagram : harshit___29 , Email : paneriharshit29@gmail.com
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <img align="left" alt="harshi-paneri's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshit-paneri&show_icons=true&theme=radical&hide_border=true&count_private=true" />
