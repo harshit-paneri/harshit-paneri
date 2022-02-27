@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @harshit-paneri
-
+#- 👋 Hi, I’m Harshit Paneri
+____________________________________________________________________________________________________________
 - 👀 I’m interested in Web development || Coding || Designing 
 
 - 🌱 I’m currently learning C || C++ || Python || JavaScript || PHP || Laravel || ReactJS
