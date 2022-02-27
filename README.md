@@ -1,4 +1,4 @@
-- #👋 Hi, I’m Harshit Paneri
+- 👋 #Hi, I’m Harshit Paneri
 ____________________________________________________________________________________________________________
 - 👀 I’m interested in Web development || Coding || Designing 
 
