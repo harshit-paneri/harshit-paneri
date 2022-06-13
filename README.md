@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- 📝 My Tech Blog on dev.to **harshitpaneri**
+- 📝 My Tech Blog on dev.to **[harshitpaneri](https://dev.to/harshitpaneri)** 
 
 
 <h3 align="left">Connect with me:</h3>
