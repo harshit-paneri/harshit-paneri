@@ -12,6 +12,9 @@
 
 - ⚡ Fun fact **I am Funny**
 
+- 📝 My Tech Blog on dev.to **harshitpaneri**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/harshitpaneri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshitpaneri" height="30" width="40" /></a> ||
