@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Amazing Projects**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Open Source**
 
 - 📫 How to reach me **paneriharshit29@gmail.com**
 
