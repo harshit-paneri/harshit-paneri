@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development and Open Source**
 
-- 📫 How to reach me **paneriharshit29@gmail.com**
+- 📫 How to reach me **harshitpaneri@harshit.biz**
 
 - ⚡ Fun fact **I am Funny**
 
