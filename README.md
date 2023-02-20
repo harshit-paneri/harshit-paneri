@@ -16,6 +16,8 @@
 
 - 📝 My Tech Blog on dev.to **[harshitpaneri](https://dev.to/harshitpaneri)** 
 
+- Community @[FOSS-Tech](https://github.com/FOSS-Tech)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
