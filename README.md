@@ -16,7 +16,7 @@
 
 - 📝 My Tech Blog on dev.to **[harshitpaneri](https://dev.to/harshitpaneri)** 
 
-- Community @[FOSS-Tech](https://github.com/FOSS-Tech)
+- Community @[FOSS-Tech](https://github.com/FOSS-Tech), @[GDSC-Techno]([https://github.com/FOSS-Tech](https://github.com/GDSC-Techno))
 
 
 <h3 align="left">Connect with me:</h3>
