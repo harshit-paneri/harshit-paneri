@@ -3,7 +3,7 @@
 
 </p>I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I am an excellent team player and make sure that everyone feels comfortable working together, making it enjoyable and effective. </p>
 
-</p>I have been an active participant in various communities such as GDSC and FOSS Tech, and I have organized events at various levels.</p>
+</p>I am a speaker at Google I/O event which will be held at GDG Udaipur, I have been an active participant in various communities such as GDSC and FOSS Tech, and I have organized events at various levels.</p>
 <img align ="right" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <img align="right" src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" height="160" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
