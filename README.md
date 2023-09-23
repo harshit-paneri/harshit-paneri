@@ -1,7 +1,7 @@
 # 💫 About Me:
 </p>I am pursuing my B.Tech final year in <b>computer science</b> and working as a full-stack developer at Cnetric. As a tech enthusiast, I am always eager to learn about new technologies that are constantly evolving and inspire me to keep growing. </p>
 
-</p>I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I am an excellent team player and make sure that everyone feels comfortable working together, making it enjoyable and effective. </p>
+</p>I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I am an excellent team player and make sure that everyone feels comfortable working together, making it enjoyable and effective.</p>
 
 </p>I am a speaker at <b>Google I/O</b> event which will be held at <b>GDG Udaipur</b>, I have been an active participant in various communities such as GDSC and FOSS Tech, and I have organized events at various levels.</p>
 <img align ="right" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
