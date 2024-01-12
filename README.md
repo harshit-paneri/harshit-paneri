@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>I am pursuing my B. Tech final year in <b>Computer Science</b> and working as an intern at Cnetric. As a tech enthusiast, I am always eager to learn about new technologies that are constantly evolving and inspire me to keep growing. I am DevRel mentee of @Keploy 4.0</p>
+<p>I am pursuing my B.Tech Final year in <b>Computer Science and Engineering</b> and working as an intern at Cnetric. As a tech enthusiast, I am always eager to learn about new technologies that are constantly evolving and inspire me to keep growing. I am DevRel mentee of @Keploy 4.0</p>
 
 <p>I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I was an excellent team player and made sure that everyone felt comfortable working together, making it enjoyable and effective.</p>
 
