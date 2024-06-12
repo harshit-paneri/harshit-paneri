@@ -1,6 +1,5 @@
 # 💫 About Me:
-<p>I am pursuing My B.Tech Final year in <b>Computer Science and Engineering</b> and working as an intern at Cnetric. As a tech enthusiast, I am always eager to learn about new technologies that are constantly evolving and inspire me to keep growing. I am DevRel mentee of @Keploy 4.0</p>
-
+I have a degree in Computer Science and Engineering and currently work as a DevOps Inter at DataWeave. Being a tech enthusiast, I am always eager to learn about new and ever-evolving technologies that inspire me to keep growing. Additionally, I am a DevRel mentee of @Keploy 4.0.
 <p>I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I was an excellent team player and made sure that everyone felt comfortable working together, making it enjoyable and effective.</p>
 
 <p>I am a speaker at <b>Google I/O</b> event which will be held at <b>GDG Udaipur</b>, I have been an active participant in various communities such as GDSC and FOSS Tech, and I have organized events at various levels.</p>
