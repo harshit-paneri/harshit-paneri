@@ -1,5 +1,5 @@
 # 💫 About Me
-I hold a degree in Computer Science and Engineering and currently work as a DevOps Engineer at DataWeave. As a tech enthusiast, I am always eager to learn about new and ever-evolving technologies that inspire me to keep growing. Additionally, I am a DevRel mentee of @Keploy 4.0.
+I am an Computer Science Engineer and currently work as a DevOps Engineer at Jumbotail Technologies. As a tech enthusiast, I am always eager to learn about new and ever-evolving technologies that inspire me to keep growing. Additionally, I am a DevRel mentee of @Keploy 4.0.
 
 I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I am an excellent team player and make sure that everyone feels comfortable working together, making the experience enjoyable and effective.
 
