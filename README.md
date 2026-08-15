@@ -1,22 +1,89 @@
-# 💫 About Me
-I am an Computer Science Engineer and currently work as a DevOps Engineer at Jumbotail Technologies. As a tech enthusiast, I am always eager to learn about new and ever-evolving technologies that inspire me to keep growing. Additionally, I am a DevRel mentee of @Keploy 4.0.
+<!-- Dynamic Waving Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=Harshit%20Paneri&fontSize=70&fontAlignY=35&desc=DevOps%20|%20DevSecOps%20|%20Cloud%20Infrastructure&descAlignY=55&descAlign=50&fontColor=00ff00" alt="Harshit Paneri Header" />
+</div>
 
-I take pride in my work and always strive to complete my tasks with great enthusiasm and competence. I am an excellent team player and make sure that everyone feels comfortable working together, making the experience enjoyable and effective.
-
-I am a speaker at the **Google I/O** event which will be held at **GDG Udaipur**. I have been an active participant in various communities such as GDSC and FOSS Tech, and I have organized events at various levels.
-
-
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=harshit-paneri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=harshit-paneri&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-paneri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshit-paneri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Terminal Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=echo+%22Architecting+Resilient+Cloud+Infrastructure%22;terraform+apply+-auto-approve;kubectl+apply+-f+production-cluster.yaml;Deploying+Automated+CI%2FCD+Pipelines...;Securing+environments+with+DevSecOps..." alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshit-paneri&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+### 👨‍💻 System Overview & Operations
+
+As an **SDE - DevOps Engineer**, I specialize in designing scalable cloud architectures, automating complex workflows, and ensuring enterprise-grade system reliability. I bridge the gap between software development and IT operations, allowing code to ship faster, safer, and at scale. 
+
+*   **☁️ Cloud & Infrastructure:** Building highly available environments and provisioning infrastructure as code (IaC).
+*   **🔄 CI/CD & Automation:** Streamlining deployment pipelines to eliminate manual toil and reduce deployment times.
+*   **🛡️ DevSecOps:** Embedding robust security protocols into the software development lifecycle from day one.
+*   **🌐 Community Leadership:** Active tech community builder, Google I/O (GDG) Speaker, and former mentor for SoC '23 & SWoC '22.
+*   **🔗 Core Portfolio:** Check out my full operational history at [harshit-paneri.github.io/hp](https://harshit-paneri.github.io/hp/).
+
+---
+
+### 🛠️ The Tech Arsenal
+
+To maintain a clean and modern look, here is a categorized breakdown of the tools I use to build and secure infrastructure.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Cloud & Containers</b></td>
+    <td align="center" width="25%"><b>CI/CD & Automation</b></td>
+    <td align="center" width="25%"><b>Monitoring & Security</b></td>
+    <td align="center" width="25%"><b>Scripting & Dev</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br />
+      <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes&theme=dark" alt="Cloud" />
+      <br />
+    </td>
+    <td align="center">
+      <br />
+      <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,bash&theme=dark" alt="Automation" />
+      <br />
+    </td>
+    <td align="center">
+      <br />
+      <img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,cloudflare&theme=dark" alt="SecOps" />
+      <br />
+    </td>
+    <td align="center">
+      <br />
+      <img src="https://skillicons.dev/icons?i=py,cpp,nodejs,react&theme=dark" alt="Code" />
+      <br />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Operational Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-paneri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=A3B3BC&icon_color=00FF00" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-paneri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideLabels=A3B3BC&dates=A3B3BC" width="48%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Pipeline (CI/CD Automated)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshitpaneri29"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://harshit-paneri.github.io/hp/"><img src="https://skillicons.dev/icons?i=web&theme=dark" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <i>"Automate everything, document the rest."</i>
+</p>
