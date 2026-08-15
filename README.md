@@ -24,8 +24,6 @@ As an **SDE - DevOps Engineer**, I specialize in designing scalable cloud archit
 
 ### 🛠️ The Tech Arsenal
 
-To maintain a clean and modern look, here is a categorized breakdown of the tools I use to build and secure infrastructure.
-
 <table>
   <tr>
     <td align="center" width="25%"><b>Cloud & Containers</b></td>
@@ -59,31 +57,25 @@ To maintain a clean and modern look, here is a categorized breakdown of the tool
 
 ---
 
-### 📈 Operational Metrics
+### 📡 Establish Connection
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-paneri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=A3B3BC&icon_color=00FF00" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-paneri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideLabels=A3B3BC&dates=A3B3BC" width="48%" alt="GitHub Streak" />
+  <a href="https://harshit-paneri.github.io/hp/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=00FF00" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/harshitpaneri29">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
+  </a>
+  <a href="https://hashnode.com/@harshitpaneri">
+    <img src="https://img.shields.io/badge/Hashnode-%23000000.svg?style=for-the-badge&logo=hashnode&logoColor=00FF00" alt="Hashnode" />
+  </a>
+  <a href="mailto:paneriharshit29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+  </a>
 </div>
 
----
-
-### 🐍 Contribution Pipeline (CI/CD Automated)
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshit-paneri/harshit-paneri/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&pause=2000&color=00FF00&background=00000000&center=true&vCenter=true&width=400&lines=%3E_++Automate+everything...;%3E_++Document+the+rest...;%3E_++System+Status:+Online" alt="Footer Terminal" />
 </div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/harshitpaneri29"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
-  <a href="https://harshit-paneri.github.io/hp/"><img src="https://skillicons.dev/icons?i=web&theme=dark" alt="Portfolio"></a>
-</p>
-
-<p align="center">
-  <i>"Automate everything, document the rest."</i>
-</p>
